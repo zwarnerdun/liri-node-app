@@ -21,6 +21,7 @@ function userOptions(userInput,inputParameter){
     case 'concert-this':
         showConcertInfo(inputParameter);
         break;
+
     case 'spotify-this-song':
         showSongInfo(inputParameter);
         break;
@@ -34,4 +35,22 @@ function userOptions(userInput,inputParameter){
         console.log("Invalid option, please try typing the correct information that you need again.")
     }
 }
+
+//Function for Bands in Town//
+function showConcertInfo(inputParameter);{
+    var queryURL = "https:rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
+    request(queryURL, function(error, response, body){
+        //successful//
+        if (! error && response.statusCode ===200) {
+            var concerts = JSONparse(body);
+            for (var i = 0; i < concerts.lenghth; i++){
+                console.log ("*****************EVENT INFO*******************");
+                //appending in log.txt file//
+                fs.appendFileSync("log.txt", "*****************EVENT INFO*******************\n");
+                console.log(i);
+            }
+
+        }
+    }
+)}
 
