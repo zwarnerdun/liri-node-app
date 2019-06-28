@@ -48,9 +48,20 @@ function showConcertInfo(inputParameter);{
                 //appending in log.txt file//
                 fs.appendFileSync("log.txt", "*****************EVENT INFO*******************\n");
                 console.log(i);
+                fs.appendFileSync("log.txt", i+"\n")
+                console.log("Name of the venue" + concerts[i].venue.name);
+                fs.appendFileSync("log.txt","Name of the venue: ", concerts.venue.name +"\n");
+                console.log("Venue location: " + concerts[i].venue.city);
+                fs.appendFileSync("log.txt","Venue location: ", concerts.venue.city +"\n");
+                console.log("Date of event: ", concerts[i].datetime);
+                fs.appendFileSync("log.txt","Date of event: " + concerts.datetime+"\n")
+                console.log("***********************");
+                fs.appendFileSync("log.txt","***********************" +"\n")
             }
 
+        }else{
+            console.log("There has been an error!")
         }
     }
-)}
+)};
 
