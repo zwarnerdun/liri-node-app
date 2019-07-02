@@ -13,6 +13,7 @@
    Each command gives data back that has to do specifically to the command. (i.e. command:concert-this returns data by the user inserting a band and the data comes back shows name of the event venue, date of the event, and venue location.)
 
 3. How to use LIRI
+<<<<<<< HEAD
 
    1. Open your Terminal (i.e. Bash). 
    2. Navigate to your liri.js file.
@@ -25,3 +26,6 @@
     The system will display the name of the venue, the date of the event, and the location. 
 
     
+=======
+   
+>>>>>>> 2d6f81f00880b776f7dfefc98bf8c564fe65d559
