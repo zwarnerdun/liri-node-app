@@ -1,0 +1,857 @@
+**********MOVIE INFO*********
+Title: On the Run Tour: Beyonce and Jay Z
+Release Year: 2014
+IMDB Rating: 8.0
+**********MOVIE INFO*********
+Title: Maroon 5 feat. Cardi B: Girls Like You
+Release Year: 2018
+IMDB Rating: 8.1
+**********MOVIE INFO*********
+Title: Maroon
+Release Year: 2016
+IMDB Rating: 5.3
+**********MOVIE INFO*********
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: Lil Phag: Clout 9
+Release Year: 2018
+IMDB Rating: 8.0
+*****************EVENT INFO*******************
+0
+*****************EVENT INFO*******************
+0
+*****************EVENT INFO*******************
+0
+*****************EVENT INFO*******************
+0
+*****************EVENT INFO*******************
+0
+*****************EVENT INFO*******************
+0
+*****************EVENT INFO*******************
+0
+*****************EVENT INFO*******************
+0
+*****************EVENT INFO*******************
+0
+*****************EVENT INFO*******************
+0
+*****************EVENT INFO*******************
+0
+*****************EVENT INFO*******************
+1
+*****************EVENT INFO*******************
+2
+*****************EVENT INFO*******************
+3
+*****************EVENT INFO*******************
+4
+*****************EVENT INFO*******************
+5
+*****************EVENT INFO*******************
+6
+*****************EVENT INFO*******************
+7
+*****************EVENT INFO*******************
+8
+*****************EVENT INFO*******************
+9
+*****************EVENT INFO*******************
+10
+*****************EVENT INFO*******************
+11
+*****************EVENT INFO*******************
+12
+*****************EVENT INFO*******************
+13
+*****************EVENT INFO*******************
+14
+*****************EVENT INFO*******************
+15
+*****************EVENT INFO*******************
+16
+*****************EVENT INFO*******************
+17
+*****************EVENT INFO*******************
+18
+*****************EVENT INFO*******************
+19
+*****************EVENT INFO*******************
+20
+*****************EVENT INFO*******************
+21
+*****************EVENT INFO*******************
+22
+*****************EVENT INFO*******************
+23
+*****************EVENT INFO*******************
+24
+*****************EVENT INFO*******************
+25
+*****************EVENT INFO*******************
+26
+*****************EVENT INFO*******************
+27
+*****************EVENT INFO*******************
+28
+*****************EVENT INFO*******************
+29
+*****************EVENT INFO*******************
+30
+*****************EVENT INFO*******************
+31
+*****************EVENT INFO*******************
+32
+*****************EVENT INFO*******************
+33
+*****************EVENT INFO*******************
+34
+*****************EVENT INFO*******************
+35
+*****************EVENT INFO*******************
+36
+*****************EVENT INFO*******************
+37
+*****************EVENT INFO*******************
+38
+*****************EVENT INFO*******************
+39
+*****************EVENT INFO*******************
+40
+*****************EVENT INFO*******************
+41
+*****************EVENT INFO*******************
+42
+*****************EVENT INFO*******************
+43
+*****************EVENT INFO*******************
+44
+*****************EVENT INFO*******************
+45
+*****************EVENT INFO*******************
+46
+*****************EVENT INFO*******************
+47
+*****************EVENT INFO*******************
+48
+*****************EVENT INFO*******************
+0
+*****************EVENT INFO*******************
+0
+**********MOVIE INFO*********
+Title: Shrek
+Release Year: 2001
+IMDB Rating: 7.9
+**********MOVIE INFO*********
+Title: Shrek
+Release Year: 2001
+IMDB Rating: 7.9
+**********MOVIE INFO*********
+Title: Shrek
+Release Year: 2001
+IMDB Rating: 7.9
+**********MOVIE INFO*********
+Title: Shrek
+Release Year: 2001
+IMDB Rating: 7.9
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: Shrek
+Release Year: 2001
+IMDB Rating: 7.9
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********SONG INFO*********
+0
+song name: Mytype
+preview song: https://p.scdn.co/mp3-preview/d3cdbadcd9d7651d92c04be46b63c055f96246d4?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Mxnvce Files, Vol. I
+artist(s): Mxnvce
+*****************************
+**********SONG INFO*********
+1
+song name: MyTyPe
+preview song: https://p.scdn.co/mp3-preview/8fd0ccf6508200a4e47eafc6e632199eb4a088cb?cid=2625a606b6a649f48e31dbc01f7560e9
+album: MyTyPe
+artist(s): Ik
+*****************************
+**********SONG INFO*********
+2
+song name: MyType
+preview song: https://p.scdn.co/mp3-preview/47988240d42991289e10a14147deaeaf5088e06c?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Top Secret
+artist(s): R.E.G
+*****************************
+**********SONG INFO*********
+3
+song name: MyType ThotVerse
+preview song: https://p.scdn.co/mp3-preview/c49253b667955d50e34568bbbf7fa826b73095e7?cid=2625a606b6a649f48e31dbc01f7560e9
+album: MyType ThotVerse
+artist(s): JuneAllYear
+*****************************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+2
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+3
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+4
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+5
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=2625a606b6a649f48e31dbc01f7560e9
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+6
+song name: Do You Mean (with Ty Dolla $ign & bülow)
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=2625a606b6a649f48e31dbc01f7560e9
+album: World War Joy
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+7
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+8
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=2625a606b6a649f48e31dbc01f7560e9
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+9
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+10
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+11
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+12
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+13
+song name: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+*****************************
+**********SONG INFO*********
+14
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=2625a606b6a649f48e31dbc01f7560e9
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+15
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG INFO*********
+16
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=2625a606b6a649f48e31dbc01f7560e9
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+17
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+18
+song name: Blessings (feat. Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury & Jamila Woods)
+preview song: https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Coloring Book
+artist(s): Chance the Rapper
+*****************************
+**********SONG INFO*********
+19
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Greatest Hits
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=2625a606b6a649f48e31dbc01f7560e9
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=2625a606b6a649f48e31dbc01f7560e9
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=2625a606b6a649f48e31dbc01f7560e9
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+5
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+7
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=2625a606b6a649f48e31dbc01f7560e9
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=2625a606b6a649f48e31dbc01f7560e9
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=2625a606b6a649f48e31dbc01f7560e9
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Timeless Love
+artist(s): Love Hits On Piano
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=2625a606b6a649f48e31dbc01f7560e9
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+19
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=2625a606b6a649f48e31dbc01f7560e9
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE INFO*********
+Title: Cinderella
+Release Year: 2015
+IMDB Rating: 6.9
+**********MOVIE INFO*********
+Title: Cinderella
+Release Year: 2015
+IMDB Rating: 6.9
+**********MOVIE INFO*********
+Title: Cinderella
+Release Year: 2015
+IMDB Rating: 6.9
+**********MOVIE INFO*********
+Title: Wie Blubber im Bauch
+Release Year: 2007
+IMDB Rating: N/A
+**********MOVIE INFO*********
+Title: Wie Blubber im Bauch
+Release Year: 2007
+IMDB Rating: N/A
+Rotten Tomatoes Rating: undefined
+Country of Production: Germany
+Language: German
+Plot: It is the simplest thing in life. It needs no experience and there is no trick to it. When it comes down to the point all it needs is a little bit of faith. Either you dare or you don't.
+Actors: Emilia Holstein, Ernesto Pacateque-Falla
+*****************************
+**********MOVIE INFO*********
+Title: Goosebumps
+Release Year: 2015
+IMDB Rating: 6.3
+Rotten Tomatoes Rating: N/A
+Country of Production: USA, Australia
+Language: English
+Plot: A teenager teams up with the daughter of young adult horror author R. L. Stine after the writer's imaginary demons are set free on the town of Madison, Delaware.
+Actors: Jack Black, Dylan Minnette, Odeya Rush, Ryan Lee
+*****************************
+**********MOVIE INFO*********
+Title: The Avengers
+Release Year: 2012
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: N/A
+Country of Production: USA
+Language: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+*****************************
+**********MOVIE INFO*********
+Title: The Avengers
+Release Year: 2012
+IMDB Rating: 8.1
+**********MOVIE INFO*********
+Title: The Avengers
+Release Year: 2012
+IMDB Rating: 8.1
+**********MOVIE INFO*********
+Title: The Avengers
+Release Year: 2012
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: undefined
+Country of Production: USA
+Language: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+*****************************
+**********MOVIE INFO*********
+Title: Hulk
+Release Year: 2003
+IMDB Rating: 5.6
+**********MOVIE INFO*********
+Title: Love
+Release Year: 2015
+IMDB Rating: 6.1
+Rotten Tomatoes Rating: undefined
+Country of Production: France, Belgium
+Language: English, French
+Plot: Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with the unstable Electra. Unaware of the effect it will have on their relationship, they invite their pretty neighbor into their bed.
+Actors: Aomi Muyock, Karl Glusman, Klara Kristin, Ugo Fox
+*****************************
+**********MOVIE INFO*********
+Title: Love
+Release Year: 2015
+IMDB Rating: 6.1
+**********MOVIE INFO*********
+Title: Love
+Release Year: 2015
+IMDB Rating: 6.1
+**********MOVIE INFO*********
+Title: Basketball
+Release Year: 2013–
+IMDB Rating: 5.5
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: Basketball
+Release Year: 2013–
+IMDB Rating: 5.5
+Rotten Tomatoes Rating: undefined
+Country of Production: South Korea
+Language: Korean
+Plot: Drama series is set within the turbulent period between the Japanese colonial era and the division of Korea into North and South. Kang San is from a poor family. He struggles to get away ...
+Actors: Ji-han Do
+*****************************
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+*****************************
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+*****************************
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+*****************************
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+*****************************
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: Avatar
+Release Year: 2009
+IMDB Rating: 7.8
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+Rotten Tomatoes Rating: undefined
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+*****************************
+**********MOVIE INFO*********
+Title: Avatar
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: undefined
+Country of Production: UK, USA
+Language: English, Spanish
+Plot: A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang
+*****************************
+**********MOVIE INFO*********
+Title: Avatar
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: N/A
+Country of Production: UK, USA
+Language: English, Spanish
+Plot: A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang
+*****************************
+**********MOVIE INFO*********
+Title: Aladdin
+Release Year: 1992
+IMDB Rating: 8.0
+Rotten Tomatoes Rating: N/A
+Country of Production: USA
+Language: English
+Plot: A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.
+Actors: Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman
+*****************************
+**********MOVIE INFO*********
+Title: Aladdin
+Release Year: 1992
+IMDB Rating: 8.0
+Rotten Tomatoes Rating: N/A
+Country of Production: USA
+Language: English
+Plot: A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.
+Actors: Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman
+*****************************
+**********MOVIE INFO*********
+Title: Aladdin
+Release Year: 1992
+IMDB Rating: 8.0
+Rotten Tomatoes Rating: 94%
+Country of Production: USA
+Language: English
+Plot: A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.
+Actors: Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=2625a606b6a649f48e31dbc01f7560e9
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=2625a606b6a649f48e31dbc01f7560e9
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=2625a606b6a649f48e31dbc01f7560e9
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+5
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+7
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=2625a606b6a649f48e31dbc01f7560e9
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=2625a606b6a649f48e31dbc01f7560e9
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=2625a606b6a649f48e31dbc01f7560e9
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Timeless Love
+artist(s): Love Hits On Piano
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=2625a606b6a649f48e31dbc01f7560e9
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=2625a606b6a649f48e31dbc01f7560e9
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+19
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=2625a606b6a649f48e31dbc01f7560e9
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
