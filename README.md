@@ -1,8 +1,10 @@
 # liri-node-app
 1. The problem the app is trying to solve.
+
    LIRI is a Language Interpretation and Recognition Interface. This app is a command line node app that follows commands by retreiving parameters and out putting data. It does this because reqeusts are being made from different functionalities that need to be read and fectched in order for the commands to run properly.
 
 2. How the app is organized.
+
    The app is organized by 4 commands:
    -concert-this
    -spotify-this
