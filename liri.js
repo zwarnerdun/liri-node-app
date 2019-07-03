@@ -35,7 +35,7 @@ function userOptions(userInput,inputParameter){
     }
 }
 
-//Function for Bands in Town//
+// //Function for Bands in Town//
 function showConcertInfo(inputParameter){
     var queryURL = "https://rest.bandsintown.com/artists/" + inputParameter + "/events?app_id=codingbootcamp";
     request(queryURL, function(error, response, body){
@@ -67,7 +67,7 @@ function showConcertInfo(inputParameter){
 // //Funtion for Music Info: Spotify//
 function showSongInfo(inputParameter) {
     if (inputParameter === undefined) {
-        inputParameter = "I Want it That Way"; //default Song
+        inputParameter = "The Sign"; //default Song
     }
     spotify.search(
         {
