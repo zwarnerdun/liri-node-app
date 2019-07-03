@@ -31,12 +31,31 @@
    
    node liri.js spotify-this <song name here>
    
-   The system will display the song's name, preview song url, album, and artist(s).
+   The system will display the song's name, preview song url, album, and artist(s)
+
    
 ![Capture node liri js spotify-this-song](https://user-images.githubusercontent.com/49568886/60612477-b3e07e00-9d96-11e9-9e9e-e4081f1f1d8a.PNG)
    
    
-   If no song is entered then a default movie will be rendered and a link on where to watch it. 
+   If no song is entered then a default song will be rendered. 
+   
+   ![Capture node liri js spotify-this-song default song](https://user-images.githubusercontent.com/49568886/60612489-b8a53200-9d96-11e9-9bdb-8f29e15e0dea.PNG)
+   
+   Example 3: Run the movie-this command
+   
+   node liri.js movie-this <movie name here>
+   
+   The system will display :
+   
+   * Title of the movie.
+   * Year the movie came out.
+   * IMDB Rating of the movie.
+   * Rotten Tomatoes Rating of the movie.
+   * Country where the movie was produced.
+   * Language of the movie.
+   * Plot of the movie.
+   * Actors in the movie.
    
    
+   If no movie is entered then a default movie will be the output with link to watch it. 
    
