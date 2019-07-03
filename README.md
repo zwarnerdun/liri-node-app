@@ -56,6 +56,20 @@
    * Plot of the movie.
    * Actors in the movie.
    
+   ![Capture node liri js movie-this](https://user-images.githubusercontent.com/49568886/60611483-66fba800-9d94-11e9-985b-f8a8513e14d5.PNG)
    
    If no movie is entered then a default movie will be the output with link to watch it. 
    
+![Capture liri js movie-this default](https://user-images.githubusercontent.com/49568886/60611491-69f69880-9d94-11e9-8781-12b30529a029.PNG)
+
+   Example 4: Run the command do-what-it-says
+   
+   node liri.js do-what-it-says
+   
+   It runs the spotify-this-song for "I Want it That Way," as follows the text in random.txt.
+   
+   
+
+   
+   
+ 
