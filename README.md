@@ -1,4 +1,5 @@
-# liri-node-app
+# liri-node-app 
+https://zwarnerdun.github.io/liri-node-app/.
 
 # My Role:
 
@@ -32,9 +33,9 @@
    ![Capture node liri js concert-this](https://user-images.githubusercontent.com/49568886/60553840-03756a00-9d03-11e9-8ca2-1d9f12a52c5a.PNG)
 
 
-   Example 2: Run the spotify-this command
+   Example 2: Run the spotify-this-song command
    
-   node liri.js spotify-this <song name here>
+   node liri.js spotify-this-song <song name here>
    
    The system will display the song's name, preview song url, album, and artist(s)
 
