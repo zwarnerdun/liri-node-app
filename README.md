@@ -33,4 +33,10 @@
    
    The system will display the song's name, preview song url, album, and artist(s).
    
+   ![Capture node liri js spotify-this-song default song](https://user-images.githubusercontent.com/49568886/60611466-5cd9a980-9d94-11e9-85fa-8301349172cd.PNG)
+   
+   
+   If no song is entered then a default movie will be rendered and a link on where to watch it. 
+   
+   
    
