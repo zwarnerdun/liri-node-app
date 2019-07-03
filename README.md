@@ -1,4 +1,9 @@
 # liri-node-app
+
+# My Role:
+
+   To organize commands to specifically output specific tasks using node packages by using solely javascript and my terminal.
+   
 # 1. The problem the app is trying to solve.
 
    LIRI is a Language Interpretation and Recognition Interface. This app is a command line node app that follows commands by retreiving parameters and out putting data. It does this because reqeusts are being made from different functionalities that need to be read and fectched in order for the commands to run properly.
@@ -68,8 +73,23 @@
    
    It runs the spotify-this-song for "I Want it That Way," as follows the text in random.txt.
    
-   
+   ![Capture liri js do-what-it-says](https://user-images.githubusercontent.com/49568886/60611498-6ebb4c80-9d94-11e9-9f59-650d7330203f.PNG)
 
+   ## TECHNOLOGIES USED
+   * Javascript
+   * Nodejs
+   * Node packages:
+      Node-Spotify-API
+      Request
+      Moment
+      DotEnv
+   * JSON packages
+   * APIs used:
+      Bands in Town
+      OMDB
+   * Git
+   * GitHub
+   
    
    
  
